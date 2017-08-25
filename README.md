@@ -9,6 +9,7 @@ If you are looking for a javscript-only bcrypt implementation we recommend you u
 [![Join the chat at https://gitter.im/shaneGirish/bcrypt-nodejs](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/shaneGirish/bcrypt-nodejs?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 [![Build Status](https://secure.travis-ci.org/shaneGirish/bcrypt-nodejs.png)](http://travis-ci.org/shaneGirish/bcrypt-nodejs)
 [![Dependency Status](https://david-dm.org/shaneGirish/bcrypt-nodejs.png)](https://david-dm.org/shaneGirish/bcrypt-nodejs)
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bhttps%3A%2F%2Fgithub.com%2Fmaulikpatel1994%2Fmaster.svg?type=shield)](https://app.fossa.io/projects/git%2Bhttps%3A%2F%2Fgithub.com%2Fmaulikpatel1994%2Fmaster?ref=badge_shield)
 
 
 Warning : A change was made in v0.0.3 to allow encoding of UTF-8 encoded strings. This causes strings encoded in v0.0.2 or earlier to not work in v0.0.3 anymore.
@@ -103,3 +104,7 @@ I heavily reused code from [javascript-bcrypt]. Though "Clipperz Javascript Cryp
 [NicolasPelletier]:https://github.com/NicolasPelletier
 [geekymole]:https://github.com/geekymole
 [nisaacson]:https://github.com/nisaacson
+
+
+## License
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bhttps%3A%2F%2Fgithub.com%2Fmaulikpatel1994%2Fmaster.svg?type=large)](https://app.fossa.io/projects/git%2Bhttps%3A%2F%2Fgithub.com%2Fmaulikpatel1994%2Fmaster?ref=badge_large)
